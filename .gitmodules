@@ -1,0 +1,3 @@
+[submodule "veracode-sca-submodule"]
+	path = veracode-sca-submodule
+	url = https://github.com/muenchdo/veracode-sca-submodule
